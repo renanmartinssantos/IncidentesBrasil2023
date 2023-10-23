@@ -12,6 +12,8 @@ Perguntas que tentaremos responder:
 5. Mapeamento de Causa-Mortes-Estados por Localização.
 6. Horários, dias da semana e mês onde ocorreram acidentes.
 
+Fonte: https://www.kaggle.com/datasets/tgomesjuliana/police-traffic-incidents/data
+
 Bibliotecas Usadas:
 
 pip install pandas datetime matplotlib seaborn numpy plotly
