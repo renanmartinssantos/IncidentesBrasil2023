@@ -16,4 +16,4 @@ Fonte: https://www.kaggle.com/datasets/tgomesjuliana/police-traffic-incidents/da
 
 Bibliotecas Usadas:
 
-pip install pandas datetime matplotlib seaborn numpy plotly
+pip install pandas datetime matplotlib seaborn numpy plotly IPython
